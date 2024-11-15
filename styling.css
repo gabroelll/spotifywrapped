@@ -1,0 +1,33 @@
+    body{
+      background-color: #212121;
+    }
+    .header{
+      background-color: #1DB954;
+      color: black;
+      padding: 40px;
+      text-align: center;
+    }
+
+    .container h3{
+     margin-top: 20px;
+     background-color: #1DB954;
+     color: black;
+     padding: 20px 30px;
+     font-size: 30px;
+    }
+
+    .container-fluid-demo{
+      background-color: #212121;
+      padding: 20px 30px;
+    }
+
+    .col-demo{
+      display: inline-block;
+      background-color: #535353;
+      color: white;
+      border: 1px solid dimgray;
+      padding: 20px;
+      text-align: center;
+      
+
+    }
